@@ -414,7 +414,7 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
-### Análisis mejor escenario: Ventas y cantidades aumentan mientras que los costos disminuyen en un 10% respecto al Caso Base.
+#### Análisis mejor escenario: Ventas y cantidades aumentan mientras que los costos disminuyen en un 10% respecto al Caso Base.
 
 ![Image](https://github.com/user-attachments/assets/59c69afa-b72a-4678-a58d-858a260e8680)
 
@@ -426,7 +426,7 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
-### Análisis peor escenario: Ventas y cantidades disminuyen mientras que los costos aumentan en un 10% respecto al Caso Base.
+#### Análisis peor escenario: Ventas y cantidades disminuyen mientras que los costos aumentan en un 10% respecto al Caso Base.
 
 
 ![Image](https://github.com/user-attachments/assets/c4120f0a-86aa-4a89-b8cd-f2a47aba9bb2)
@@ -445,28 +445,64 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 
 
-
-
-
-
-
 #### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> ¿Cuán sensible es el VAN ante cambio en los costos fijos? (+/- 12%)
 
-#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) 
+
+#### Análisis de sensibilidad: Costos fijos aumentan en un 12% respecto al Caso Base
+
+![Image](https://github.com/user-attachments/assets/5cbff84b-4a3a-4fce-9e93-e5f1c6bf5085)
+
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+
+#### Análisis de sensibilidad: Costos fijos disminuyen en un 12% respecto al Caso Base
+
+![Image](https://github.com/user-attachments/assets/f9ac3f5d-064f-4049-be33-afc87189ce5f)
+
+
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) Cuando la variable a modificar son los costos fijos, el VAN pasa de $1.154.703,20 en el Caso Base hacia $1.129.094,04 en el Caso 3 cuando estos aumentan en un 12%, y hacia $1.180.312,35 en el Caso 4 cuando estos disminuyen en un 12%, esto nos indica que prácticamente no hay una variabilidad en el VAN al modificar los costos fijos, por lo que ante una variación del 12% en los costos fijos, el VAN tiene solamente una fluctuación del 2%.
+#### Adicionalmente, vemos que el VAN tiene una sensibilidad de (1,86) lo cual nos indica que por cada peso que aumenta o disminuye en los costos fijos, el VAN va a fluctuar en (1,86).
 
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
 
-
-
-
-
-
 #### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> ¿A qué nivel de ventas logra el punto de equilibrio en efectivo? ¿Y contable? ¿Y financiero?
 
-#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) 
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) El proyecto alcanza su Punto de Equilibrio de Efectivo en 6 unidades o lo mismo que $99.000, lo que significa que se deben producir y vender esa cantidad de unidades para llegar a un flujo operativo de efectivo equivalente a 0.
+
+#### Cálculos
+#### PEE = $115.000 + (0 - ($162.500* 0,35) / (1-0,35)) / ($18.000– $13.000)
+#### PEE = $115.000 +(0 - ($56.875 / 0,65) / $5.000
+#### PEE = $115.000 -$87.500 / $5.000
+#### PEE = 5,5
+
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e)  Su Punto de Equilibrio Contable se encuentra en 56 unidades o lo mismo que $999.000, lo que significa que tenemos que vender esa cantidad para cubrir la totalidad de los costos, de esta forma el Estado de Resultados tendrá una Utilidad Neta equivalente a $0.
+#### Cálculos
+#### PEC = $115.000 + $162.500 / $18.000-$13.000
+#### PEC = $277.500 / $5.000
+#### PEC = 55,5
+
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e)  En cuanto al Punto de Equilibrio Financiero, se requieren 76 unidades o lo mismo que $1.359.955,19, lo que significa que se deben producir y vender esa cantidad de unidades para llegar a un VAN equivalente a 0 y mantener la operatividad de la empresa.
+#### Cálculos
+#### FEO para VAN de 0 = $650.000 /((1-(1+0,15)^-4)/0,15)
+#### FEO para VAN de 0 = $650.000 / 2,854978363
+#### FEO para VAN de 0 = $227.672,47
+#### Se necesita un FEO de $227.672,47 para alcanzar el PEF.
+#### PEF = $115.000 + ($ 227.672,47- ($162.500 * 0,35) / (1-0,35)) / ($18.000 – $13.000)
+#### PEF = $115.000 + ($ 227.672,47- $56.875 / 0,65) / $5.000
+#### PEF = $115.000 + ($170.797,47 / 0,65) / $5.000
+#### PEF = $115.000 + $262.765,33 / $5.000
+#### PEF = 75,55
+
 
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
