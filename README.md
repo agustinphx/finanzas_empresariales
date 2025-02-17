@@ -113,6 +113,9 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 #### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> Si la empresa requiere un rendimiento de 10% sobre sus inversiones ¿Aceptaría el proyecto? ¿Por qué?
 
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) Sí aceptaría el proyecto porque a una tasa del 10% el VAN es positivo en: $13.570,25 .
+
+![Image](https://github.com/user-attachments/assets/b3d53df2-cdfa-4615-83ab-9c3ec87430b1)
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
@@ -120,6 +123,13 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 #### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> Calcule la TIR del proyecto. ¿Cuántas existen? Si usted aplica la regla de decisión de la TIR, ¿Aceptaría el proyecto o no? ¿Qué es lo que sucede en este caso?
 
+#### Como es un problema de flujos de fondos no convencionales, primero voy a simular el VAN para múltiples tasas:
+
+![Image](https://github.com/user-attachments/assets/6957e1c3-9b55-49a0-a54e-fa9b803ee34a)
+
+
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) Como vemos en el gráfico, el valor del VAN es afectado por el nivel de la tasa de costo de oportunidad, a medida que ésta aumenta, el VAN disminuye.  En este caso al ser FF no convencionales, el criterio de la TIR es débil porque no existe una TIR para este proyecto, de modo tal que no conviene utilizarla ya que nos llevará a tomar malas decisiones.
+####  Lo ideal es guiarnos por el criterio del VAN, por lo que aceptaría el proyecto al tener un VAN positivo en $13.570,25 tomando la tasa requerida por el mercado.
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
