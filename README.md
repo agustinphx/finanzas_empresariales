@@ -273,23 +273,91 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 
 #### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> Calcule el flujo de efectivo en el caso base y el VAN. ¿Cuán sensible es el VAN ante cambios en las unidades vendidas? (Supongamos que las ventas disminuyen en 500 unidades). ¿Cuán sensible será el VAN ante variaciones en los costos variables? (Disminución de $2 en los costos variables).
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) 
+#### Caso Base con 125.000 unidades vendidas:
+#### El Flujo Efectivo de Operación es de $666.500 y al ser positivo nos demuestra que la operatividad de la empresa tiene flujos de efectivo positivos, lo que le permite cubrir todos los gastos pertinentes al desarrollo de las actividades y a su vez, le queda dinero para poder utilizarlo en los activos fijos y el capital de trabajo.
+#### Es relevante destacar que, al no haber variaciones en el capital de trabajo neto, el flujo de efectivo operativo es equivalente al flujo de efectivo de los activos.
+
+![Image](https://github.com/user-attachments/assets/5b106e8b-5af1-48ca-8b63-61dec7cf7291)
+
+#### El proyecto es conveniente posee un VAN de $1.682.357,72, el cual nos indica que, al ser positivo, se recuperaría la inversión inicial de ($840.000) y el proyecto generaría valor positivo para la empresa.
+
+#### Cálculos
+#### Ventas = 125.000 * $32
+#### Ventas = $4.000.000
+#### Costos = $800.000 + (125.000*$18)
+#### Costos = $3.050.000
+#### Amortización = $840.000/6
+#### Amortización = $140.000
+#### IIGG = $810.000 *0,35
+#### IIGG = $283.500
+#### FEO = Amortización + Resultado neto
+#### FEO = $140.000 + $526.500
+#### FEO = $666.500
+#### Variación FEO = $666.500*[(1-(1+0,15)^-6)/0,15]
+#### Variación FEO = $2.522.357,72
+#### VAN = Inversión inicial + Variación FEO
+#### VAN = -($840.000) + $2.522.357,72
+#### VAN = $1.682.357,72
 
 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
+#### Caso 1: Vendiendo 500 unidades menos que en el Caso Base
 
-###  ‎ 
+![Image](https://github.com/user-attachments/assets/2c4ad381-9147-439b-b24b-4183e4cbcc3a)
+
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e)  Calculé el flujo de efectivo y el VAN para una situación donde hay una reducción en las ventas en 500 unidades congelando todas las demás variables. Lo que se observa es que, el VAN estimado es de $1.665.138,32 para este proyecto en una situación donde la variable afectada son las unidades vendidas. Por lo tanto al disminuir en 500 las unidades vendidas, hace que el VAN pase de $1.682.357,72 en el Caso Base hacia $1.665.138,32 en el Caso 1, lo cual nos demuestra que no hay una gran variabilidad en el VAN al modificar esta variable en particular porque es tan solo del (1%).
+#### En este caso tenemos que la sensibilidad del VAN respecto a la cantidad de unidades vendidas es de 34,44. Esto que significa que por cada unidad vendida el VAN va fluctuar en 34,44.
 
 
-
+#### Cálculos
+#### Ventas = 124.500 * $32
+#### Ventas = $3.984.000
+#### Costos = $800.000 + (124.500*$18)
+#### Costos = $3.041.000
+#### Amortización = $840.000/6
+#### Amortización = $140.000
+#### IIGG = $803.000 *0,35
+#### IIGG = $281.050
+#### FEO = $140.000 + $521.950
+#### FEO = $661.950
+#### Variación FEO = $661.950*[(1-(1+0,15)^-6)/0,15]
+#### Variación FEO = $2.505.138,32
+#### VAN = -($840.000) + $2.505.138,32
+#### VAN = $1.665.138,32
+#### Sensibilidad VAN = Var. VAN–VAN Caso Base / (Nueva variable – variable Caso Base)
+#### Sensibilidad VAN = ($1.665.138,32- $1682357,72)/(124500-125000)
+#### Sensibilidad VAN = 34,44
 
 
 
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+
+#### Caso 2: Variación de los costos variables, donde se disminuye en $2 por cada unidad vendida respecto al Caso Base.
+
+![Image](https://github.com/user-attachments/assets/0a510b27-0cd0-4e48-ab1a-249c01af4c6a)
+
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) Calculé el flujo de efectivo y el VAN para una situación donde hay una reducción en el costo variable unitario de $2, congelando todas las demás variables. Lo que se observa es que, el VAN estimado es de $2.297.336,15 para este proyecto en una situación donde la variable afectada es el costo variable. Por lo tanto, al disminuir en $2 el costo variable por cada unidad vendida, hace que el VAN pase de $1.682.357,72 en el Caso Base hacia $2.297.336,15 en el Caso 2, lo cual nos demuestra que hay una gran variabilidad en el VAN al modificar esta variable en particular, con una variación porcentual del 36,6%.
+
+
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) En este caso tenemos que la sensibilidad del VAN respecto a la disminución en los costos variables es de ($307.489,22). Esto que significa que por cada $2 de reducción en los costos variables sobre las unidades vendidas el VAN va a fluctuar en ($307.489,22).
+
+![Image](https://github.com/user-attachments/assets/425e8b33-6807-4b92-aff1-1ef828c619e8)
+
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) Por lo tanto, basándonos en los datos de la comparativa de los Casos que podrían surgir, la mayor fluctuación del VAN se produce en el Caso 2, donde repercute con mayor fuerza la variable que incide en los costos variables.
+
+![Image](https://github.com/user-attachments/assets/a8662bfb-f5bd-4893-85e9-b42ec777e9a2)
+
+
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+### 
 
 
 ### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/client-company.png" alt="client-company"/> Suponga que usted considera el lanzamiento de un nuevo producto. El proyecto tendrá un costo de $ 650.000, una vida de 4 años y no tiene valor de recuperación, la amortización será en línea recta hasta cero. Las ventas se han proyectado a un nivel de 200 unidades por año, el precio por unidad será de $18.000, los costos variables $13.000 por unidad y los costos fijos $115.000 por año. El rendimiento requerido 15% y la tasa de impuesto 35%
