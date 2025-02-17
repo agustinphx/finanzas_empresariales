@@ -29,16 +29,16 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 #### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> Aplicando el criterio del periodo de recuperación ¿Qué inversión elegiría? ¿Por qué? ¿Y utilizando el período de recupero descontado?
 
-#### Si lo vemos desde el punto de vista del tiempo y no la rentabilidad el proyecto B es el más conveniente porque se recupera la inversión inicial a los 3 años, siendo un plazo menor que en el proyecto A, que es de 4 años. 
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) Si lo vemos desde el punto de vista del tiempo y no la rentabilidad el proyecto B es el más conveniente porque se recupera la inversión inicial a los 3 años, siendo un plazo menor que en el proyecto A, que es de 4 años. 
 
-#### Si utilizamos el período de recupero descontado, el proyecto A es el más conveniente porque generará una mayor ganancia cuando finalice el proyecto, recuperando la inversión inicial en 3 años y 4 meses, de modo que solo aceptaría este proyecto si se propusiera un período de recupero máximo de 4 años. 
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) Si utilizamos el período de recupero descontado, el proyecto A es el más conveniente porque generará una mayor ganancia cuando finalice el proyecto, recuperando la inversión inicial en 3 años y 4 meses, de modo que solo aceptaría este proyecto si se propusiera un período de recupero máximo de 4 años. 
 
 ![Image](https://github.com/user-attachments/assets/20a1947e-444a-47c3-bc24-ed5be5cf2639)
 
 
 #### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> Si en cambio consideramos el criterio del VAN, ¿Qué proyecto elegimos? ¿Qué nos está indicando el VAN?
 
-#### El proyecto A es el más conveniente porque tiene un VAN positivo, lo que significa que se recupera la inversión inicial de ($180.000) y generará valor neto positivo para la empresa por $81.303,38 .
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) El proyecto A es el más conveniente porque tiene un VAN positivo, lo que significa que se recupera la inversión inicial de ($180.000) y generará valor neto positivo para la empresa por $81.303,38 .
 
 ![Image](https://github.com/user-attachments/assets/fe58c7e5-53d6-4e21-be00-5dfe7706f408)
 
