@@ -195,6 +195,9 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 #### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) El VAN al ser positivo nos indica que si la empresa realiza una inversión por $332.000 en el nuevo sistema y capital de trabajo, que le permita ahorrar $90.000 en cada período durante 5 años, le sería conveniente el proyecto ya que le va a añadir valor positivo neto a la empresa. Por lo tanto, con este proyecto se recupera la inversión inicial y sirve para cumplir la meta de un administrador financiero que se basa en maximizar el valor actual de las acciones de capital existente.
 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+
 ### Cálculos
 #### Como no tenemos ventas porque es un tipo de proyecto orientado a la reducción de costos, la información relevante es que si la empresa invierte $332.000 luego se va a ahorrar en costos $90.000 durante 5 años. Dada esta situación, usé el enfoque del escudo impositivo para su cálculo:
 #### Flujo de efectivo operativo = (Ventas - Costos)(1 - Impuestos) + (Amortización * Impuestos)
@@ -226,6 +229,8 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 #### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e)   En este caso tenemos un Punto de Equilibrio Contable (PEC) de 67.143 unidades o lo mismo que $2.148.571,43, lo que significa que tenemos que vender esa cantidad para cubrir la totalidad de los costos, de esta forma el Estado de Resultados tendrá una Utilidad Neta equivalente a $0. Por lo tanto, todo el dinero que ingresa a la empresa es equivalente a todo el que sale contablemente. 
 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
 #### Cálculos 
 #### PEC = CF + Amortización / PV – CV
 #### PEC = $800.000 + $140.000 / $14
@@ -236,6 +241,8 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 
 #### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e)   Tenemos un Punto de Equilibrio de Efectivo (PEE) en 51.758 unidades o lo mismo que $1.656.263,75, lo que significa que se deben producir y vender esa cantidad de unidades para llegar a un flujo operativo de efectivo equivalente a 0.
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
 #### Cálculos 
@@ -251,6 +258,7 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 #### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e)   En cuanto al Punto de Equilibrio Financiero (PEF) es de 76.149 unidades o lo mismo que $2.436.778,88, lo que significa que se deben producir y vender esa cantidad de unidades para llegar a un VAN equivalente a 0 y mantener la operatividad de la empresa.
 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
 #### Cálculos 
@@ -283,6 +291,9 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 #### El proyecto es conveniente posee un VAN de $1.682.357,72, el cual nos indica que, al ser positivo, se recuperaría la inversión inicial de ($840.000) y el proyecto generaría valor positivo para la empresa.
 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+
 #### Cálculos
 #### Ventas = 125.000 * $32
 #### Ventas = $4.000.000
@@ -312,6 +323,7 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 #### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e)  Calculé el flujo de efectivo y el VAN para una situación donde hay una reducción en las ventas en 500 unidades congelando todas las demás variables. Lo que se observa es que, el VAN estimado es de $1.665.138,32 para este proyecto en una situación donde la variable afectada son las unidades vendidas. Por lo tanto al disminuir en 500 las unidades vendidas, hace que el VAN pase de $1.682.357,72 en el Caso Base hacia $1.665.138,32 en el Caso 1, lo cual nos demuestra que no hay una gran variabilidad en el VAN al modificar esta variable en particular porque es tan solo del (1%).
 #### En este caso tenemos que la sensibilidad del VAN respecto a la cantidad de unidades vendidas es de 34,44. Esto que significa que por cada unidad vendida el VAN va fluctuar en 34,44.
 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 #### Cálculos
 #### Ventas = 124.500 * $32
@@ -349,6 +361,8 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 #### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) En este caso tenemos que la sensibilidad del VAN respecto a la disminución en los costos variables es de ($307.489,22). Esto que significa que por cada $2 de reducción en los costos variables sobre las unidades vendidas el VAN va a fluctuar en ($307.489,22).
 
 ![Image](https://github.com/user-attachments/assets/425e8b33-6807-4b92-aff1-1ef828c619e8)
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 #### Cálculos
 #### Ventas = 125.000 * $32
@@ -390,10 +404,44 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 #### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> Con base a su experiencia sabe que sus proyecciones son exactas en +/- 10%. ¿Cuál será el VAN del caso base? ¿Y en la mejor situación? ¿Y en la peor?
 
-#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e)  
+### Caso base de análisis
+
+![Image](https://github.com/user-attachments/assets/bd93ffee-4a53-4620-ac63-badce86a775f)
 
 
-###  ‎ 
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e)  En base al EERR del Caso Base, tenemos un VAN de $1.154.703,20. Por lo que el proyecto sería conveniente de entrada al tener una VAN positivo, lo que permitiría generar valor para el proyecto y que uno pueda recuperar la inversión inicial.
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+
+### Análisis mejor escenario: Ventas y cantidades aumentan mientras que los costos disminuyen en un 10% respecto al Caso Base.
+
+![Image](https://github.com/user-attachments/assets/59c69afa-b72a-4678-a58d-858a260e8680)
+
+#### Cálculos
+#### Ventas y cantidades aumentan en 10% = ($18.000 * 1,1) * (200 * 1,1) = $4.356.000
+#### Costos variables disminuyen en 10% = ($13.000 * 0,9) * (200 * 1,1) = $2.574.000
+#### Costos fijos disminuyen en 10% = $115.000 * 0,9 = $103.500
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+
+### Análisis peor escenario: Ventas y cantidades disminuyen mientras que los costos aumentan en un 10% respecto al Caso Base.
+
+
+![Image](https://github.com/user-attachments/assets/c4120f0a-86aa-4a89-b8cd-f2a47aba9bb2)
+
+#### Como vemos en cada análisis, el VAN en el peor escenario es de ($87.712,01) mientras que en el mejor escenario de $ 2.627.229,66.
+#### El VAN pasa de $1.154.703,20 en el Caso Base hacia ($87.712,01) en la peor situación y hacia $ 2.627.229,66 en la mejor situación, lo cual nos demuestra que hay una gran variabilidad en el VAN al modificar las variables en tan solo un 10%.
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+#### Cálculos
+#### Ventas y cantidades disminuyen en 10% = ($18.000 * 0,9) * (200 * 0,9) = $2.916.000
+#### Costos variables aumentan en 10% = ($13.000 * 1,1) * (200 * 0,9) = $2.574.000
+#### Costos fijos aumentan en 10% = $115.000 * 1,1 = $126.500
+
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
 
@@ -407,7 +455,7 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 #### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) 
 
 
-###  ‎ 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
 
@@ -421,7 +469,7 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 #### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) 
 
 
-###  ‎ 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
 
