@@ -224,8 +224,50 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 #### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> Calcule el punto de equilibrio contable, efectivo y financiero. ¿Qué indican cada uno de ellos?
 
 
-#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e)  
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e)   En este caso tenemos un Punto de Equilibrio Contable (PEC) de 67.143 unidades o lo mismo que $2.148.571,43, lo que significa que tenemos que vender esa cantidad para cubrir la totalidad de los costos, de esta forma el Estado de Resultados tendrá una Utilidad Neta equivalente a $0. Por lo tanto, todo el dinero que ingresa a la empresa es equivalente a todo el que sale contablemente. 
+
+#### Cálculos 
+#### PEC = CF + Amortización / PV – CV
+#### PEC = $800.000 + $140.000 / $14
+#### PEC = 67.143
+
+  
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e)   Tenemos un Punto de Equilibrio de Efectivo (PEE) en 51.758 unidades o lo mismo que $1.656.263,75, lo que significa que se deben producir y vender esa cantidad de unidades para llegar a un flujo operativo de efectivo equivalente a 0.
+
+
+#### Cálculos 
+#### PEE = CF + (Flujo de efectivo operativo - (Amortización * IIGG) / (1-IIGG))/ (PV – CV)
+#### PEE = $800.000 + (0 - ($140.000 * 0,35) / (1-0,35)) / ($32 – $18)
+#### PEE = $800.000 + (0 - ($49.000/ 0,65) / $14
+#### PEE = $800.000 - $75384,61/ $14
+#### PEE = 51.758,24
+
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e)   En cuanto al Punto de Equilibrio Financiero (PEF) es de 76.149 unidades o lo mismo que $2.436.778,88, lo que significa que se deben producir y vender esa cantidad de unidades para llegar a un VAN equivalente a 0 y mantener la operatividad de la empresa.
+
+
+
+#### Cálculos 
+#### Flujo de efectivo operativo para VAN de 0= $840.000/((1-(1+0,15)^-6)/0,15)
+#### Flujo de efectivo operativo para VAN de 0 = $840.000 / 3,784482694
+#### Flujo de efectivo operativo para VAN de 0 = $221.959
+#### Se necesita un FEO de $221.959 para alcanzar el PEF.
+#### PEF = CF + (FEO - (Amortización * IIGG) / (1-IIGG))/ (PV – CV)
+#### PEF = $800.000 + ($221.959 - ($140.000 * 0,35) / (1-0,35)) / ($32 – $18)
+#### PEF = $800.000 + ($221.959 - $49.000/ 0,65) / $14
+#### PEF = $800.000 + $266.090,76 / $14
+#### PEF = 76.149,34
+
+![Image](https://github.com/user-attachments/assets/eb2cf6b4-506a-4c7c-b8d4-021025f1bad6)
+
 ###  ‎ 
+
 
 
 
@@ -233,6 +275,10 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 #### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> Calcule el flujo de efectivo en el caso base y el VAN. ¿Cuán sensible es el VAN ante cambios en las unidades vendidas? (Supongamos que las ventas disminuyen en 500 unidades). ¿Cuán sensible será el VAN ante variaciones en los costos variables? (Disminución de $2 en los costos variables).
 
 #### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) 
+
+
+
+
 
 ###  ‎ 
 
