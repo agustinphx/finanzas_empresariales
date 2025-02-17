@@ -469,7 +469,7 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 
 
-#### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> ¿A qué nivel de ventas logra el punto de equilibrio en efectivo? ¿Y contable? ¿Y financiero?
+#### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> ¿A qué nivel de ventas logra el punto de equilibrio en efectivo, contable y financiero?
 
 #### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) El proyecto alcanza su Punto de Equilibrio de Efectivo en 6 unidades o lo mismo que $99.000, lo que significa que se deben producir y vender esa cantidad de unidades para llegar a un flujo operativo de efectivo equivalente a 0.
 
