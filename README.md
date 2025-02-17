@@ -180,6 +180,98 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 
 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+
+### Bendog S.A. desea comprar un nuevo sistema para elaborar sus productos cuyo costo de instalación es de U$S 305.000. El mismo será amortizado en línea recta hasta llegar a un valor de cero a lo largo de los cinco años de la vida del proyecto, al final del cual el sistema podrá ser vendido en U$S 60.000. Además, el sistema le permitirá ahorrar a la empresa U$S 90.000 por año en costos de la operación antes de impuestos. Si se requerirá una inversión inicial de capital de trabajo de U$S 27.000, la tasa del impuesto a las ganancias es 34% y la tasa de descuento 10%.
+
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+
+#### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> Calcule: VAN, flujo de efectivo operativo, de los activos, cambios en el capital de trabajo. ¿Conviene el proyecto? ¿Por qué?
+
+![Image](https://github.com/user-attachments/assets/3258a6e3-65c3-4f33-9f9c-89ccf0d7cf36)
+
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) El VAN al ser positivo nos indica que si la empresa realiza una inversión por $332.000 en el nuevo sistema y capital de trabajo, que le permita ahorrar $90.000 en cada período durante 5 años, le sería conveniente el proyecto ya que le va a añadir valor positivo neto a la empresa. Por lo tanto, con este proyecto se recupera la inversión inicial y sirve para cumplir la meta de un administrador financiero que se basa en maximizar el valor actual de las acciones de capital existente.
+
+### Cálculos
+#### Como no tenemos ventas porque es un tipo de proyecto orientado a la reducción de costos, la información relevante es que si la empresa invierte $332.000 luego se va a ahorrar en costos $90.000 durante 5 años. Dada esta situación, usé el enfoque del escudo impositivo para su cálculo:
+#### Flujo de efectivo operativo = (Ventas - Costos)(1 - Impuestos) + (Amortización * Impuestos)
+#### Flujo de efectivo operativo = [$0 – (-$90.000)] * (0.66) + ($61.000 * 0.34)
+#### Flujo de efectivo operativo = $90.000 * 0.66 + $20.740
+#### Flujo de efectivo operativo = $80.140
+#### Valor de rezago del software =valor de mercado – (deuda impositiva)= valor de mercado – (valor de mercado) * T
+#### Valor de rezago del software = $60.000 - ($60.000 - 0) * (0.34)
+#### Valor de rezago del software = $39.600
+#### Ahorro después de impuestos = Ahorro en costos * (1 - IIGG)
+#### Ahorro después de impuestos = $90.000 * (1 - 0,34)
+#### Ahorro después de impuestos = $59.400
+#### Protección fiscal por depreciación (escudo impositivo) = Amortización * IIGG
+#### Protección fiscal por depreciación (escudo impositivo) = $61.000 * 0,34
+#### Protección fiscal por depreciación (escudo impositivo) = $20.740
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+###  ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+
+
+###  Debemos evaluar un proyecto que posee un costo de $ 840.000 y una vida útil de 6 años, sin valor de recupero al final de la misma. Supongamos que la depreciación será en línea recta hasta alcanzar un valor de 0 a lo largo de la vida del proyecto. Las ventas se han proyectado a un nivel de 125.000 unidades por año, el precio por unidad es de $ 32, el costo variable de $ 18 y los costos fijos son de $800.000 anuales. Si la tasa de impuesto a las ganancias es del 35% y requerimos en el mercado un rendimiento de 15%.
+
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+#### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> Calcule el punto de equilibrio contable, efectivo y financiero. ¿Qué indican cada uno de ellos?
+
+
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e)  
+###  ‎ 
+
+
+
+
+#### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> Calcule el flujo de efectivo en el caso base y el VAN. ¿Cuán sensible es el VAN ante cambios en las unidades vendidas? (Supongamos que las ventas disminuyen en 500 unidades). ¿Cuán sensible será el VAN ante variaciones en los costos variables? (Disminución de $2 en los costos variables).
+
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) 
+
+###  ‎ 
+
+
+
+
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+
+
+#### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/>
+
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) 
+
+###  ‎ 
+
+
+
+
+
+
+
+
+
+
+
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+
+#### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/>
+
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) 
+
+
+###  ‎ 
+
 
 
 
