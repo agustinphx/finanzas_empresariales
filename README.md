@@ -149,11 +149,16 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 #### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> ¿Cuál es el capital que le corresponde a los propietarios de ENS en 2018 y 2019?
 
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) El patrimonio neto de los propietarios es de $1.661 para el período de 2018 y de $2.142 para el período de 2019.
+
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ 
 
+
+
 #### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> ¿Cuál es el cambio en el capital de trabajo neto en 2019?
 
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) El capital de trabajo neto para el período 2019 se sitúa en $414 mientras que la variación en el capital de trabajo neto se sitúa en $22.
 
 
 
@@ -161,14 +166,16 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 #### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> En 2019 la consultora compró $ 1350 en nuevos activos fijos. ¿Cuánto vendió de activos fijos?
 
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) La empresa vendió activos fijos netos por un valor de $63.
 
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ 
 
 #### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> ¿Cuál es el flujo de efectivo de los activos para 2019? (La tasa de impuesto a las ganancias es de 34%)
 
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) El flujo de efectivo de los activos se sitúa en $1.930,20 aplicando una tasa de IIGG del 34%.
 
-
+![Image](https://github.com/user-attachments/assets/8c2ef3a8-f57a-4008-95fe-9093878275f2)
 
 
 
