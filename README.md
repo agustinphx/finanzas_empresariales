@@ -17,10 +17,8 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 ### 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-### Valuación de proyectos e indicadores financieros <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-projects-home-based-business-flaticons-lineal-color-flat-icons.png" alt="external-projects-home-based-business-flaticons-lineal-color-flat-icons"/>
-
 ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-#### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/client-company.png" alt="client-company"/> Una empresa tiene que decidir entre dos proyectos de inversión donde posee el siguiente flujo de fondos:
+### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/client-company.png" alt="client-company"/> Una empresa tiene que decidir entre dos proyectos de inversión donde posee el siguiente flujo de fondos:
 
 ![Image](https://github.com/user-attachments/assets/f2fb54e3-f9b0-4d90-87f1-eae1695a6127)
 
@@ -184,6 +182,7 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
+
 ### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/client-company.png" alt="client-company"/> Bendog S.A. desea comprar un nuevo sistema para elaborar sus productos cuyo costo de instalación es de U$S 305.000. El mismo será amortizado en línea recta hasta llegar a un valor de cero a lo largo de los cinco años de la vida del proyecto, al final del cual el sistema podrá ser vendido en U$S 60.000. Además, el sistema le permitirá ahorrar a la empresa U$S 90.000 por año en costos de la operación antes de impuestos. Si se requerirá una inversión inicial de capital de trabajo de U$S 27.000, la tasa del impuesto a las ganancias es 34% y la tasa de descuento 10%.
 
 
@@ -236,25 +235,6 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 #### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) 
 
 ###  ‎ 
-
-
-
-
-
-###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-
-
-
-#### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/>
-
-#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) 
-
-###  ‎ 
-
-
-
-
-
 
 
 
