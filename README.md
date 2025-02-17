@@ -263,6 +263,58 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+
+### Suponga que usted considera el lanzamiento de un nuevo producto. El proyecto tendrá un costo de $ 650.000, una vida de 4 años y no tiene valor de recuperación, la amortización será en línea recta hasta cero. Las ventas se han proyectado a un nivel de 200 unidades por año, el precio por unidad será de $18.000, los costos variables $13.000 por unidad y los costos fijos $115.000 por año. El rendimiento requerido 15% y la tasa de impuesto 35%
+
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+#### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> Con base a su experiencia sabe que sus proyecciones son exactas en +/- 10%. ¿Cuál será el VAN del caso base? ¿Y en la mejor situación? ¿Y en la peor?
+
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) 
+
+
+###  ‎ 
+
+
+
+
+
+
+
+
+#### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> ¿Cuán sensible es el VAN ante cambio en los costos fijos? (+/- 12%)
+
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) 
+
+
+###  ‎ 
+
+
+
+
+
+
+
+
+#### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> ¿A qué nivel de ventas logra el punto de equilibrio en efectivo? ¿Y contable? ¿Y financiero?
+
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) 
+
+
+###  ‎ 
+
+
+
+
+
+
+
+
+
+
 
 
 #### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/>
@@ -271,6 +323,27 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 
 ###  ‎ 
+
+
+
+
+
+
+
+
+
+
+
+#### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/>
+
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) 
+
+
+###  ‎ 
+
+
+
+
 
 
 
