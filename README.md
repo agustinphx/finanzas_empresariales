@@ -20,7 +20,7 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 ### Valuación de proyectos e indicadores financieros <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-projects-home-based-business-flaticons-lineal-color-flat-icons.png" alt="external-projects-home-based-business-flaticons-lineal-color-flat-icons"/>
 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-#### Una empresa tiene que decidir entre dos proyectos de inversión donde posee el siguiente flujo de fondos:
+#### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/client-company.png" alt="client-company"/> Una empresa tiene que decidir entre dos proyectos de inversión donde posee el siguiente flujo de fondos:
 
 ![Image](https://github.com/user-attachments/assets/f2fb54e3-f9b0-4d90-87f1-eae1695a6127)
 
@@ -71,7 +71,7 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
-### La empresa U.D. cerro su ejercicio en 2011 con el siguiente estado de resultados:
+### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/client-company.png" alt="client-company"/> La empresa U.D. cerro su ejercicio en 2011 con el siguiente estado de resultados:
 
 ![image](https://github.com/user-attachments/assets/a8370697-48e8-4be0-a8f1-46f54fdc9acf)
 
@@ -105,7 +105,7 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ 
 
 
-### Gasco S.A. trata de evaluar un proyecto que tiene los siguientes flujos de fondos:
+### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/client-company.png" alt="client-company"/> Gasco S.A. trata de evaluar un proyecto que tiene los siguientes flujos de fondos:
 
 ![Image](https://github.com/user-attachments/assets/0ef4b719-5dc4-4f01-a77f-5e7e547102c0)
 
@@ -141,7 +141,7 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-### ENS Consulting quiere saber más sobre su situación financiera, para ello brinda la siguiente información:
+### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/client-company.png" alt="client-company"/> ENS Consulting quiere saber más sobre su situación financiera, para ello brinda la siguiente información:
 ![Image](https://github.com/user-attachments/assets/711c762b-76fd-4d5c-9173-dc6b3c4b9983)
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
@@ -184,7 +184,7 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
-### Bendog S.A. desea comprar un nuevo sistema para elaborar sus productos cuyo costo de instalación es de U$S 305.000. El mismo será amortizado en línea recta hasta llegar a un valor de cero a lo largo de los cinco años de la vida del proyecto, al final del cual el sistema podrá ser vendido en U$S 60.000. Además, el sistema le permitirá ahorrar a la empresa U$S 90.000 por año en costos de la operación antes de impuestos. Si se requerirá una inversión inicial de capital de trabajo de U$S 27.000, la tasa del impuesto a las ganancias es 34% y la tasa de descuento 10%.
+### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/client-company.png" alt="client-company"/> Bendog S.A. desea comprar un nuevo sistema para elaborar sus productos cuyo costo de instalación es de U$S 305.000. El mismo será amortizado en línea recta hasta llegar a un valor de cero a lo largo de los cinco años de la vida del proyecto, al final del cual el sistema podrá ser vendido en U$S 60.000. Además, el sistema le permitirá ahorrar a la empresa U$S 90.000 por año en costos de la operación antes de impuestos. Si se requerirá una inversión inicial de capital de trabajo de U$S 27.000, la tasa del impuesto a las ganancias es 34% y la tasa de descuento 10%.
 
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
@@ -217,7 +217,7 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 
 
-###  Debemos evaluar un proyecto que posee un costo de $ 840.000 y una vida útil de 6 años, sin valor de recupero al final de la misma. Supongamos que la depreciación será en línea recta hasta alcanzar un valor de 0 a lo largo de la vida del proyecto. Las ventas se han proyectado a un nivel de 125.000 unidades por año, el precio por unidad es de $ 32, el costo variable de $ 18 y los costos fijos son de $800.000 anuales. Si la tasa de impuesto a las ganancias es del 35% y requerimos en el mercado un rendimiento de 15%.
+### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/client-company.png" alt="client-company"/> Debemos evaluar un proyecto que posee un costo de $ 840.000 y una vida útil de 6 años, sin valor de recupero al final de la misma. Supongamos que la depreciación será en línea recta hasta alcanzar un valor de 0 a lo largo de la vida del proyecto. Las ventas se han proyectado a un nivel de 125.000 unidades por año, el precio por unidad es de $ 32, el costo variable de $ 18 y los costos fijos son de $800.000 anuales. Si la tasa de impuesto a las ganancias es del 35% y requerimos en el mercado un rendimiento de 15%.
 
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
@@ -266,7 +266,7 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
-### Suponga que usted considera el lanzamiento de un nuevo producto. El proyecto tendrá un costo de $ 650.000, una vida de 4 años y no tiene valor de recuperación, la amortización será en línea recta hasta cero. Las ventas se han proyectado a un nivel de 200 unidades por año, el precio por unidad será de $18.000, los costos variables $13.000 por unidad y los costos fijos $115.000 por año. El rendimiento requerido 15% y la tasa de impuesto 35%
+### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/client-company.png" alt="client-company"/> Suponga que usted considera el lanzamiento de un nuevo producto. El proyecto tendrá un costo de $ 650.000, una vida de 4 años y no tiene valor de recuperación, la amortización será en línea recta hasta cero. Las ventas se han proyectado a un nivel de 200 unidades por año, el precio por unidad será de $18.000, los costos variables $13.000 por unidad y los costos fijos $115.000 por año. El rendimiento requerido 15% y la tasa de impuesto 35%
 
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
@@ -309,52 +309,13 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 
 
-
-
-
-
-
-
-
-
-#### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/>
-
-#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) 
-
-
-###  ‎ 
-
-
-
-
-
-
-
-
-
-
-
-#### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/>
-
-#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) 
-
-
-###  ‎ 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ### En desarrollo ......
-### 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+## Herramienta utilizada
+### Excel ![icons8-ms-excel-48](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/e103657c-e678-42a2-9bfa-75ccc4beea13)
+https://www.microsoft.com/es-ar/microsoft-365/excel)
 
