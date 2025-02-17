@@ -350,9 +350,32 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 ![Image](https://github.com/user-attachments/assets/425e8b33-6807-4b92-aff1-1ef828c619e8)
 
+#### Cálculos
+#### Ventas = 125.000 * $32
+#### Ventas = $4.000.000
+#### Costos = $800.000 + (125.000*$16)
+#### Costos = $2.800.000
+#### Amortización = $840.000/6
+#### Amortización = $140.000
+#### IIGG = $1.060.000 *0,35
+#### IIGG = $371.000
+#### FEO = $140.000 + $689.000
+#### FEO = $829.000
+#### Variación FEO = $829.000*[(1-(1+0,15)^-6)/0,15]
+#### Variación FEO = $3.173.336,15
+#### VAN = -($840.000) + $3.137.336,15
+#### VAN = $2.297.336,15
+#### Sensibilidad VAN = ($2.297.336,15 - $1682357,72)/($16-$18)
+#### Sensibilidad VAN = ($307.489,22)
+
+
+
 #### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) Por lo tanto, basándonos en los datos de la comparativa de los Casos que podrían surgir, la mayor fluctuación del VAN se produce en el Caso 2, donde repercute con mayor fuerza la variable que incide en los costos variables.
 
 ![Image](https://github.com/user-attachments/assets/a8662bfb-f5bd-4893-85e9-b42ec777e9a2)
+
+
+
 
 
 
@@ -367,7 +390,7 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 #### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> Con base a su experiencia sabe que sus proyecciones son exactas en +/- 10%. ¿Cuál será el VAN del caso base? ¿Y en la mejor situación? ¿Y en la peor?
 
-#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) 
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e)  
 
 
 ###  ‎ 
