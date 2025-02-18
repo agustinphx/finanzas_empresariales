@@ -515,16 +515,25 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 #### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> ¿Qué cantidad máxima puede emitir en cada caso?
 
-#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e)  
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e)  La cantidad máxima del bono A que se pueden emitir es de 13.145 bonos mientras que la cantidad máxima de bonos B a emitir corresponde a 24.883 bonos.
 
+
+![Image](https://github.com/user-attachments/assets/2d7d1a9a-7ffa-4833-8291-387c98202cc3)
+
+
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
 #### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> ¿Cuáles serían los rendimientos actual y por capital del primer bono para el primer año?
 
-#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e)  
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e)  El primer bono tiene un cupón anual de $120 y posee un valor de mercado hoy de $1.000 con una rentabilidad actual del 12%. Esto significa que el precio hoy en el mercado del bono, es exactamente igual al valor escrito en el mismo al momento de su emisión, es decir, se está vendiendo a la par de su valor nominal, por lo tanto el rendimiento por ganancia por capital es 0%.
 
 
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) Luego de un año, restando 4 períodos para el vencimiento, el bono tiene un precio de mercado de $792,90 con una rentabilidad del 15,13% y una ganancia por capital del (20,71%). Como vemos, es importante destacar que la rentabilidad actual va a variar en función del precio del bono en el mercado en un momento determinado y esto va a pasar hasta que llegue a su vencimiento. Por ello, es que al tener distintos precios de mercado para el bono, tenemos distintas rentabilidades.
 
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
 
@@ -535,6 +544,7 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 
 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
 #### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> ¿En cuál de las dos emisiones es mayor el riesgo de la tasa de interés?
@@ -550,6 +560,7 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 
 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
