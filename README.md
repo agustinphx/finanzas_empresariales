@@ -845,14 +845,79 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
+### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/client-company.png" alt="client-company"/> Microstate emitió un bono con una tasa cupón 10% anual, los cuales comienzan a abonarse luego de transcurridos 5 años de periodo de gracia. El valor nominal del mismo es de 1000 y tiene un vencimiento a 20 años. Los pagos de cupones serán semestrales y el valor nominal se reintegrará el vencimiento.
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+#### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> Si los inversionistas requieren un rendimiento 12% anual ¿Cuál será el valor del bono? ¿Qué podemos decir sobre el precio del bono y la RAV? ¿Sin hacer cálculos que podría usted determinar respecto al precio que tendrá el bono?
+
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) El valor del bono es de $849,54, este es un bono de tipo bullet porque se reintegra el valor nominal al vencimiento del capital. En este caso, el bono se vende bajo la par, es decir, por debajo de su valor nominal porque ofrece una tasa del cupón del 10%, siendo menor que la tasa requerida por el mercado del 12%, esto significa que el valor de mercado del bono es menor que su valor nominal.
+
+
+
+![Image](https://github.com/user-attachments/assets/18f4d761-7503-4d7e-bf72-256a81b9e165)
+
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) El bono actualmente con un cupón de $50 semestral y vendiéndose en el mercado a un valor de $849,54 y posee tiene un rendimiento a la fecha de 11,77%, el cuál va a variar en función del precio del bono en el mercado. Cabe aclarar, que considero a los cupones como una anualidad de 40 periodos de $50 cada uno.
+
+
+
+
+#### Flujos de fondos del bono: 
+![Image](https://github.com/user-attachments/assets/0548e162-bd36-4acc-978d-d641dc54472f)
+![Image](https://github.com/user-attachments/assets/e9e3cf48-6f3e-4aed-b15e-04e4aca3eb57)
+
+
+#### La RAV es la tasa que hace el precio de mercado del bono sea igual al valor presente de sus flujos de fondos futuros. Sin hacer cálculos, como la RAV es inferior al rendimiento requerido por el mercado para invertir en este instrumento, significa que el cupón en sus condiciones de emisión genera un rendimiento del 10% en cada cupón anual cuando el mercado espera un rendimiento del 12%. Por lo tanto, para que el inversor se sienta atraído por esta inversión, hay que vender el bono con descuento bajando su valor nominal.
+
+
+#### En este caso que el bono tiene un valor de $849,54 es atractivo para el inversor ya que estaría comprando a un precio menor que su valor nominal de $1.000, por lo que al tener una cotización más baja se busca compensar esa diferencia en la rentabilidad.
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+#### Cálculos
+#### Precio de mercado del bono = C*(1-1/(1+k)^T)/k+VN/(1+k)^T
+#### Precio de mercado del bono = $50*(1-1/(1+0,06)^40)/0,06+$1.000/(1+0,06)^40
+#### Precio de mercado del bono = $849,54
+
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+#### RA = C/ Precio de mercado del bono
+#### RA = =$100/$849,54
+#### RA = 11,77%
 
 
 
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-### En desarrollo ......
+#### También podría calcular el precio de mercado del bono a día de hoy aplicando otros tipos de cálculos que nos llevan al mismo resultado.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
+#### Primera alternativa:
+#### Precio de mercado del bono = (VN/(1+tasa semestral)^períodos semestrales)+cupón semestral*((1-(1+tasa semestral)^-períodos semestrales)/tasa semestral)
+#### Precio de mercado del bono = ($1.000/(1+0,06)^40)+$50*((1-(1+0,06)^-40)/0,06)
+#### Precio de mercado del bono = $849,54
+
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+#### Segunda alternativa:
+#### Factor valor presente = (1-(1+ tasa requerida por el mercado)^-períodos semestrales)/tasa semestral
+#### Factor valor presente = (1-(1,06)^-40)/0,06
+#### Factor valor presente = 15,0463
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+#### Factor de valor presente de la anualidad = (1+ tasa requerida por el mercado)^ - períodos semestrales
+#### Factor de valor presente de la anualidad = 0,09722
+
+
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+#### Precio de mercado del bono = Cupón * Factor de valor presente + VN * Factor de valor presente de la anualidad
+#### Precio de mercado del bono = $50 * 15,0463 + $1,000 * 0,09722
+#### Precio de mercado del bono = $752,32 + $97,22
+#### Precio de mercado del bono = $849,54
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 ## Herramienta utilizada
