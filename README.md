@@ -521,6 +521,15 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 ![Image](https://github.com/user-attachments/assets/2d7d1a9a-7ffa-4833-8291-387c98202cc3)
 
 
+#### Cálculos
+#### Cantidad máxima bono A = monto total a recaudar/precio unitario bono A
+#### Cantidad máxima bono A = $10.000.000/$760,75
+#### Cantidad máxima bono A = 13.145 bonos
+
+#### Cantidad máxima bono B = monto total a recaudar/precio unitario bono B
+#### Cantidad máxima bono B = $10.000.000/$401,88
+#### Cantidad máxima bono B = 24.883 bonos
+
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
@@ -533,13 +542,62 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 #### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) Luego de un año, restando 4 períodos para el vencimiento, el bono tiene un precio de mercado de $792,90 con una rentabilidad del 15,13% y una ganancia por capital del (20,71%). Como vemos, es importante destacar que la rentabilidad actual va a variar en función del precio del bono en el mercado en un momento determinado y esto va a pasar hasta que llegue a su vencimiento. Por ello, es que al tener distintos precios de mercado para el bono, tenemos distintas rentabilidades.
 
 
+#### Cálculos
+#### Cupón = Valor Nominal * Tasa cupón
+#### Cupón = $1.000 * 0,12
+#### Cupón = $120
+
+#### Valor facial = VN *(1 / (1 + tasa cupón) ^T)
+#### Valor facial = $1.000 * (1 / (1+0,12) ^5)
+#### Valor facial = $567,43
+
+#### Valor presente de pagos de cupones = Cupón *((1- (1 / (1 + tasa cupón) ^T)) /tasa cupón)
+#### Valor presente de pagos de cupones = $120*((1- (1 / (1 +0,12) ^5)) /0,12)
+#### Valor presente de pagos de cupones = $432,57
+
+#### Precio de mercado actual = valor facial + valor presente de pagos de cupones
+#### Precio de mercado actual = $567,43 + $432,57
+#### Precio de mercado actual = $1.000
+
+#### Rentabilidad Actual (RA) = Cupón / precio mercado actual
+#### RA = $120 /$1.000
+#### RA  = 12%
+
+
+#### Rendimiento por ganancias por capital = (precio mercado actual – VN) /VN
+#### Rendimiento por ganancias por capital = ($1.000 – $1.000)/$1.000
+#### Rendimiento por ganancias por capital = 0%
+
+
+
+#### Precio del bono luego de 1 año = Cupón *(1-1/(1+k)^T)/k+$1000/(1+k)^T
+#### Precio del bono luego de 1 año = $120*(1-1/(1+0,2)^4)/0,2+$1000/(1+0,2)^4
+#### Precio del bono luego de 1 año = $792,90
+
+
+#### RA luego de 1 año = Cupón anual / precio de mercado luego de 1 año
+#### RA luego de 1 año = $120/$792,90
+#### RA luego de 1 año = 15,13%
+
+
+
+
+
+
+
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
 
 #### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/>  ¿Qué ocurrirá con el precio de los bonos si aumentan las tasas de mercado?
 
-#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) 
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) Como en el siguiente gráfico, los precios de los bonos y las tasas de interés siempre se mueven en sentidos opuestos. Por lo tanto, si aumentan las tasas de interés en el mercado, lo que ocurrirá es que el valor de los bonos va a disminuir, al igual que sucede con el valor presente.
+
+![Image](https://github.com/user-attachments/assets/f7bac3fb-18b9-4d64-a360-cf004c7ee58f)
+
+
+
+
 
 
 
@@ -549,8 +607,8 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 #### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> ¿En cuál de las dos emisiones es mayor el riesgo de la tasa de interés?
 
-#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) 
-
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) La sensibilidad del riesgo de la tasa de interés varía en función del tiempo que falta para el vencimiento del bono y la tasa del cupón. Mientras más largo sea el plazo de vencimiento mayor será el riesgo al que se incurre frente a una sensibilidad de la RAV respecto a los bonos que vencen antes.
+#### En este caso, tenemos dos bonos con diferentes tasas de cupón pero que tienen el mismo vencimiento, por lo que el valor del bono B, que es el que tiene el cupón más bajo, es más dependiente del monto nominal que se va a recibir al vencimiento, dado que, si todo lo demás se mantiene igual, su valor fluctuará más a medida que cambie la tasa de interés, por lo que es más sensible y por ende más riesgoso. Mientras que el bono A que tiene el cupón más elevado tiene un flujo de efectivo más grande al momento de su emisión, por lo que su valor es menos sensible a los cambios en la tasa de descuento.
 
 
 
