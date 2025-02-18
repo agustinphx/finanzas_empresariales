@@ -659,16 +659,15 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 
 ![Image](https://github.com/user-attachments/assets/8887d42b-e7ba-498e-9dd2-f19a362744d4)
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
-
-
-
-
-
-
-
-
+#### Cálculos:
+#### P0 = D1/ (1 +tasa requerida) + D2/(1 + tasa requerida)^2 + D3/(1 +tasa requerida)^3 +
+#### D4/(1 + tasa requerida)^4
+#### P0 = $8/(1+0,11) + $9/(1+0,11) ^2 + $10/(1+0,11) ^3 + $11/(1+0,11) ^4
+#### P0 = $7,21 + $7,30 + $7,31 + $7,25
+#### P0 = $29,07
 
 
 
@@ -679,35 +678,62 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 
 
-### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/client-company.png" alt="client-company"/>
+### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/client-company.png" alt="client-company"/> Hay dos bonos, uno el M posee un cupón de 4%, mientras que el H cupones de 10%. A ambos le faltan 8 años para el vencimiento, hacen pagos semestrales y tienen una RAV de 9%.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
+#### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> ¿Cuál es el precio actual de cada uno de estos bonos?
 
-
-#### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/>
-
-#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e)
-
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) El precio actual del bono M es de $719,15 mientras que el valor de mercado del bono H es de $1.056,17 .
 
 
 
-
-
-
-
+![Image](https://github.com/user-attachments/assets/3de9a204-1604-4af6-819d-72123c345db0)
 
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
-#### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/>
+#### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> Si la tasa de interés aumenta repentinamente 2%. ¿Cuál será el cambio porcentual en el precio del bono? ¿Qué no indica este problema con respecto al riesgo de la variación en la tasa de interés?
 
-#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e)
-
-
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e)  En caso de que las tasas aumenten en un 2% repentinamente, tendríamos que el bono M va a fluctuar un (36,62 %) mostrando una gran sensibilidad al cambio en las tasas mientras que el bono H solamente tendría una fluctuación del (5,23 %).
 
 
+![Image](https://github.com/user-attachments/assets/dd63b893-c065-4a61-89f7-836695223a2f)
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+
+#### Como vemos en el gráfico, a medida que las tasas de interés aumentan, el valor de los bonos disminuye ya que van en sentidos opuestos.
+#### Los dos bonos tienen el mismo vencimiento, pero el bono M es más sensible a los cambios en la tasa de interés porque su cupón es inferior al del bono H, lo que significa que tiene menor flujo de efectivo al momento de su emisión. Los riesgos que no indica este análisis son que la inflación puede comerse el rendimiento del bono, también una devaluación o puede haber un riesgo de default y liquidez.
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+#### Cálculos:
+#### Precio de mercado actual bono M = $20*(1-1/(1+0,045)^16)/0,045+$1.000/(1+0,045)^16
+#### Precio de mercado actual bono M = $719,15
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+#### Precio de mercado actual bono H =$50*(1-1/(1+0,045) ^16) /0,045+$1.000/ (1+0,045)^16
+#### Precio de mercado actual bono H = $1.056,17
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+#### Variación de los bonos:
+#### Valor bono M si RAV aumenta 2%= $20*(1-1/(1+0,055)^16)/0,055+$1.000/(1+0,055)^16
+#### Valor bono M si RAV aumenta 2% = $633,82
+#### Variación bono M = (Valor bono M si RAV aumenta 2% -VN) /VN
+#### Variación bono M = ($633,82 -$1.000) /$1.000
+#### Variación bono M = (36,62%)
+
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+#### Valor bono H si RAV aumenta 2% = $50*(1-1/(1+0,055)^16)/0,055+$1.000/(1+0,055)^16
+#### Valor bono H si RAV aumenta 2% = $947,69
+#### Variación bono H = (Valor bono H si RAV aumenta 2% -VN) /VN
+#### Variación bono H = ($947,69 -$1.000) /$1.000
+#### Variación bono H = (5,23%)
 
 
 
