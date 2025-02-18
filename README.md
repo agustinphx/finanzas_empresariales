@@ -204,12 +204,18 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 #### Flujo de efectivo operativo = [$0 – (-$90.000)] * (0.66) + ($61.000 * 0.34)
 #### Flujo de efectivo operativo = $90.000 * 0.66 + $20.740
 #### Flujo de efectivo operativo = $80.140
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
 #### Valor de rezago del software =valor de mercado – (deuda impositiva)= valor de mercado – (valor de mercado) * T
 #### Valor de rezago del software = $60.000 - ($60.000 - 0) * (0.34)
 #### Valor de rezago del software = $39.600
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
 #### Ahorro después de impuestos = Ahorro en costos * (1 - IIGG)
 #### Ahorro después de impuestos = $90.000 * (1 - 0,34)
 #### Ahorro después de impuestos = $59.400
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
 #### Protección fiscal por depreciación (escudo impositivo) = Amortización * IIGG
 #### Protección fiscal por depreciación (escudo impositivo) = $61.000 * 0,34
 #### Protección fiscal por depreciación (escudo impositivo) = $20.740
@@ -265,6 +271,8 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 #### Flujo de efectivo operativo para VAN de 0= $840.000/((1-(1+0,15)^-6)/0,15)
 #### Flujo de efectivo operativo para VAN de 0 = $840.000 / 3,784482694
 #### Flujo de efectivo operativo para VAN de 0 = $221.959
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
 #### Se necesita un FEO de $221.959 para alcanzar el PEF.
 #### PEF = CF + (FEO - (Amortización * IIGG) / (1-IIGG))/ (PV – CV)
 #### PEF = $800.000 + ($221.959 - ($140.000 * 0,35) / (1-0,35)) / ($32 – $18)
@@ -308,6 +316,8 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 #### FEO = $666.500
 #### Variación FEO = $666.500*[(1-(1+0,15)^-6)/0,15]
 #### Variación FEO = $2.522.357,72
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
 #### VAN = Inversión inicial + Variación FEO
 #### VAN = -($840.000) + $2.522.357,72
 #### VAN = $1.682.357,72
@@ -338,6 +348,8 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 #### FEO = $661.950
 #### Variación FEO = $661.950*[(1-(1+0,15)^-6)/0,15]
 #### Variación FEO = $2.505.138,32
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
 #### VAN = -($840.000) + $2.505.138,32
 #### VAN = $1.665.138,32
 #### Sensibilidad VAN = Var. VAN–VAN Caso Base / (Nueva variable – variable Caso Base)
@@ -377,6 +389,8 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 #### FEO = $829.000
 #### Variación FEO = $829.000*[(1-(1+0,15)^-6)/0,15]
 #### Variación FEO = $3.173.336,15
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
 #### VAN = -($840.000) + $3.137.336,15
 #### VAN = $2.297.336,15
 #### Sensibilidad VAN = ($2.297.336,15 - $1682357,72)/($16-$18)
@@ -420,7 +434,11 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 #### Cálculos
 #### Ventas y cantidades aumentan en 10% = ($18.000 * 1,1) * (200 * 1,1) = $4.356.000
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
 #### Costos variables disminuyen en 10% = ($13.000 * 0,9) * (200 * 1,1) = $2.574.000
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
 #### Costos fijos disminuyen en 10% = $115.000 * 0,9 = $103.500
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
@@ -496,6 +514,8 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 #### FEO para VAN de 0 = $650.000 /((1-(1+0,15)^-4)/0,15)
 #### FEO para VAN de 0 = $650.000 / 2,854978363
 #### FEO para VAN de 0 = $227.672,47
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
 #### Se necesita un FEO de $227.672,47 para alcanzar el PEF.
 #### PEF = $115.000 + ($ 227.672,47- ($162.500 * 0,35) / (1-0,35)) / ($18.000 – $13.000)
 #### PEF = $115.000 + ($ 227.672,47- $56.875 / 0,65) / $5.000
@@ -526,6 +546,9 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 #### Cantidad máxima bono A = $10.000.000/$760,75
 #### Cantidad máxima bono A = 13.145 bonos
 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+
 #### Cantidad máxima bono B = monto total a recaudar/precio unitario bono B
 #### Cantidad máxima bono B = $10.000.000/$401,88
 #### Cantidad máxima bono B = 24.883 bonos
@@ -547,33 +570,46 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 #### Cupón = $1.000 * 0,12
 #### Cupón = $120
 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+
 #### Valor facial = VN *(1 / (1 + tasa cupón) ^T)
 #### Valor facial = $1.000 * (1 / (1+0,12) ^5)
 #### Valor facial = $567,43
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
 
 #### Valor presente de pagos de cupones = Cupón *((1- (1 / (1 + tasa cupón) ^T)) /tasa cupón)
 #### Valor presente de pagos de cupones = $120*((1- (1 / (1 +0,12) ^5)) /0,12)
 #### Valor presente de pagos de cupones = $432,57
 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
 #### Precio de mercado actual = valor facial + valor presente de pagos de cupones
 #### Precio de mercado actual = $567,43 + $432,57
 #### Precio de mercado actual = $1.000
 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
 #### Rentabilidad Actual (RA) = Cupón / precio mercado actual
 #### RA = $120 /$1.000
 #### RA  = 12%
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
 #### Rendimiento por ganancias por capital = (precio mercado actual – VN) /VN
 #### Rendimiento por ganancias por capital = ($1.000 – $1.000)/$1.000
 #### Rendimiento por ganancias por capital = 0%
 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
 #### Precio del bono luego de 1 año = Cupón *(1-1/(1+k)^T)/k+$1000/(1+k)^T
 #### Precio del bono luego de 1 año = $120*(1-1/(1+0,2)^4)/0,2+$1000/(1+0,2)^4
 #### Precio del bono luego de 1 año = $792,90
 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 #### RA luego de 1 año = Cupón anual / precio de mercado luego de 1 año
 #### RA luego de 1 año = $120/$792,90
@@ -591,15 +627,9 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 
 #### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/>  ¿Qué ocurrirá con el precio de los bonos si aumentan las tasas de mercado?
 
-#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) Como en el siguiente gráfico, los precios de los bonos y las tasas de interés siempre se mueven en sentidos opuestos. Por lo tanto, si aumentan las tasas de interés en el mercado, lo que ocurrirá es que el valor de los bonos va a disminuir, al igual que sucede con el valor presente.
+#### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) En el siguiente gráfico vamos a poder ver cómo los precios de los bonos y las tasas de interés, siempre se mueven en sentidos opuestos. Por lo tanto, si aumentan las tasas de interés en el mercado, lo que ocurrirá es que el valor de los bonos va a disminuir, al igual que sucede con el valor presente.
 
 ![Image](https://github.com/user-attachments/assets/f7bac3fb-18b9-4d64-a360-cf004c7ee58f)
-
-
-
-
-
-
 
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
@@ -608,18 +638,15 @@ Este repositorio contiene proyectos prácticos realizados en la asignatura: "Fin
 #### <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/why-quest.png" alt="why-quest"/> ¿En cuál de las dos emisiones es mayor el riesgo de la tasa de interés?
 
 #### ![Image](https://github.com/user-attachments/assets/408c57f4-f4bf-4e8b-a3ef-a94de82e3b4e) La sensibilidad del riesgo de la tasa de interés varía en función del tiempo que falta para el vencimiento del bono y la tasa del cupón. Mientras más largo sea el plazo de vencimiento mayor será el riesgo al que se incurre frente a una sensibilidad de la RAV respecto a los bonos que vencen antes.
+
 #### En este caso, tenemos dos bonos con diferentes tasas de cupón pero que tienen el mismo vencimiento, por lo que el valor del bono B, que es el que tiene el cupón más bajo, es más dependiente del monto nominal que se va a recibir al vencimiento, dado que, si todo lo demás se mantiene igual, su valor fluctuará más a medida que cambie la tasa de interés, por lo que es más sensible y por ende más riesgoso. Mientras que el bono A que tiene el cupón más elevado tiene un flujo de efectivo más grande al momento de su emisión, por lo que su valor es menos sensible a los cambios en la tasa de descuento.
 
 
 
-
-
-
-
-
-
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+
 
 
 
